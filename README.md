@@ -21,11 +21,4 @@ This repository contains a comprehensive data science workflow aimed at predicti
 ## 📂 Project Structure
 ```text
 ├── ithinker_Loan_Prediction.ipynb   # Main Jupyter Notebook containing the end-to-end pipeline
-└── README.md                        # Project documentation
-
-## ⚙️ Getting Started
-* **Clone the repository:**
-  git clone https://github.com/ElifSB-creator/loan-prediction.git
-
-jupyter notebook ithinker_Loan_Prediction.ipynb
-
+└── README.md                        # Project documentatio
