@@ -25,7 +25,6 @@ This repository contains a comprehensive data science workflow aimed at predicti
 
 ## ⚙️ Getting Started
 * **Clone the repository:**
-  ```bash
   git clone https://github.com/ElifSB-creator/loan-prediction.git
 
 jupyter notebook ithinker_Loan_Prediction.ipynb
